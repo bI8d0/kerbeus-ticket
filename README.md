@@ -1,8 +1,6 @@
 # Kerbeus-Ticket
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Go Version](https://img.shields.io/badge/Go-1.24+-blue.svg)](https://golang.org/)
-[![Platform](https://img.shields.io/badge/Platform-Linux-green.svg)](https://www.kernel.org/)
+<p align="center"><a href="https://github.com/bI8d0/kerbeus-ticket"><img src="https://img.shields.io/badge/Linux%20%7C%20Go%201.24%20%7C%20MIT%20%7C%20Kerberos%20TGT%20ccache%20Generator-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Linux | Go 1.24 | MIT | Kerberos TGT ccache Generator"></a></p>
 
 ```
   ╔═══════════════════════════════════════════════════════════════╗
@@ -182,4 +180,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with ❤️ for the security community
 </p>
-
